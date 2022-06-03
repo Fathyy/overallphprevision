@@ -1,0 +1,24 @@
+.message{
+    position: sticky;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding: 15px 10px;
+    text-align: center;
+    z-index: 1000;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.add-to-cart{
+    display: block;
+    margin-top: 15px;
+}
+.each-items-wrapper{
+    margin-left: 31px;
+}
+.table-image{
+    height: 50px;
+    width: 50px;
+}
